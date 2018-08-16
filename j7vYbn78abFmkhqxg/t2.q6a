@@ -1,0 +1,22 @@
+{
+	"fileName": "t2.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "f172b2b3-a2f8-f918-c445-eab7bcca0620",
+			"fileTemplateDate": "2018-08-16T21:19:04.228Z",
+			"fileTemplateCollections": [],
+			"fileTemplateCollectionsForTranslation": []
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "xTPg92epRsoJiaTKL",
+			"possibleLanguages": []
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
