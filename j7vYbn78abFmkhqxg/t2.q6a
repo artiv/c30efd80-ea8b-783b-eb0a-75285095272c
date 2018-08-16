@@ -4,15 +4,84 @@
 		"fileTemplateGeneral": {
 			"fileTemplateGuid": "f172b2b3-a2f8-f918-c445-eab7bcca0620",
 			"fileTemplateDate": "2018-08-16T21:19:04.228Z",
-			"fileTemplateCollections": [],
-			"fileTemplateCollectionsForTranslation": []
+			"fileTemplateCollections": [
+				"j7vYbn78abFmkhqxg"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"j7vYbn78abFmkhqxg"
+			]
 		},
 		"fileTemplateLanguage": {
 			"primaryLanguage": "xTPg92epRsoJiaTKL",
 			"possibleLanguages": []
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "78b9a9e4-b47b-9792-261b-3013e170c5c7",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"genericIsEditableCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"genericIsRequiredCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"genericIsMultipleCollections": [
+							"j7vYbn78abFmkhqxg"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": false,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "option value",
+						"genericChildren": [],
+						"genericKey": "option key",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "",
+										"value": "",
+										"isTrue": false
+									},
+									{
+										"key": "",
+										"value": "",
+										"isTrue": false
+									}
+								]
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "",
+										"value": "",
+										"isTrue": false
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": []
 		},
 		"fileTemplatePublish": {
