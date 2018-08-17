@@ -48,13 +48,13 @@
 								"allowsMultiple": true,
 								"optionValues": [
 									{
-										"key": "",
-										"value": "",
+										"key": "key 1",
+										"value": "value 2",
 										"isTrue": false
 									},
 									{
-										"key": "",
-										"value": "",
+										"key": "key 2",
+										"value": "value 2",
 										"isTrue": false
 									}
 								]
@@ -63,13 +63,13 @@
 								"allowsMultiple": false,
 								"optionValues": [
 									{
-										"key": "",
-										"value": "",
+										"key": "yes key",
+										"value": "yes value",
 										"isTrue": false
 									},
 									{
-										"key": "",
-										"value": "",
+										"key": "no key",
+										"value": "no value",
 										"isTrue": false
 									}
 								]
