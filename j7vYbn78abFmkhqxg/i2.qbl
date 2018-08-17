@@ -1,0 +1,98 @@
+{
+	"fileName": "i2.qbl",
+	"fileTemplateRepo": "c30efd80-ea8b-783b-eb0a-75285095272c",
+	"fileTemplatePath": "j7vYbn78abFmkhqxg/t2.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "c0b66a2e-8658-0d44-f4b2-78275b74a608",
+			"fileItemDate": "2018-08-17T12:03:10.844Z",
+			"fileItemCollections": [
+				"j7vYbn78abFmkhqxg"
+			],
+			"fileItemCollectionsForTranslation": [
+				"j7vYbn78abFmkhqxg"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "xTPg92epRsoJiaTKL",
+			"possibleLanguages": []
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "78b9a9e4-b47b-9792-261b-3013e170c5c7",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"genericIsEditableCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"genericIsRequiredCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"genericIsMultipleCollections": [
+							"j7vYbn78abFmkhqxg"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": false,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "option value",
+						"genericChildren": [],
+						"genericKey": "option key",
+						"genericValues": [
+							{
+								"allowsMultiple": true,
+								"optionValues": [
+									{
+										"key": "key 1",
+										"value": "value 2",
+										"isTrue": false
+									},
+									{
+										"key": "key 2",
+										"value": "value 2",
+										"isTrue": false
+									}
+								]
+							},
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "yes key",
+										"value": "yes value",
+										"isTrue": false
+									},
+									{
+										"key": "no key",
+										"value": "no value",
+										"isTrue": false
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": []
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
