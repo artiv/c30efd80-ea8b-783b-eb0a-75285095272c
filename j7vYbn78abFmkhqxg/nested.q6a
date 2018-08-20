@@ -1,0 +1,22 @@
+{
+	"fileName": "nested.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "300e99bd-c140-c7cb-24cd-8d6a23bcb0c1",
+			"fileTemplateDate": "2018-08-20T20:14:51.697Z",
+			"fileTemplateCollections": [],
+			"fileTemplateCollectionsForTranslation": []
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "xTPg92epRsoJiaTKL",
+			"possibleLanguages": []
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
