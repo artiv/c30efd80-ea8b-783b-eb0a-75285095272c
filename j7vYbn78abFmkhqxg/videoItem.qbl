@@ -140,7 +140,53 @@
 					"fieldSpecific": {
 						"fieldInformation": "video info",
 						"fieldKey": "video key",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d",
+								"version": 1534887789,
+								"signature": "5460d005dfd0d7cde4e5352b1403ee7df2d85b1b",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2018-08-21T21:43:09Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 586071,
+								"type": "upload",
+								"etag": "b63192f52b271ac89ae880db1ef3b28f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/video/upload/v1534887789/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d.mp4",
+								"secure_url": "https://res.cloudinary.com/q6a/video/upload/v1534887789/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "48109",
+									"frequency": 22050,
+									"channels": 1,
+									"channel_layout": "mono"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "103819",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 155081,
+								"duration": 30.083984,
+								"rotation": 0,
+								"original_filename": "videoplayback_x09drf",
+								"path": "v1534887789/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d.mp4",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1534887789/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d.jpg",
+								"captions": {},
+								"overlays": []
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
