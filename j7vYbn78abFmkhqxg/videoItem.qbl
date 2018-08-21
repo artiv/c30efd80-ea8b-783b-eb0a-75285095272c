@@ -184,7 +184,11 @@
 								"path": "v1534887789/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1534887789/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d.jpg",
 								"captions": {},
-								"overlays": []
+								"overlays": [],
+								"context": {
+									"caption": "modern caption",
+									"alt": "family description"
+								}
 							}
 						],
 						"fieldChildren": []
