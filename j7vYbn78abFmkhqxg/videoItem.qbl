@@ -283,18 +283,18 @@
 										}
 									],
 									"asset": {
-										"public_id": "c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d_Qh49DmsSkwzi8irdW_en-US.srt",
-										"version": 1534915529,
-										"signature": "29eafa52f14f815413d53cbe4295ebd62453de6b",
+										"public_id": "c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d_PQfzf2DYjYnrKDQDx_en-US.srt",
+										"version": 1534916004,
+										"signature": "cfd08a93f265a5b3b146b5c4f2ccba1aab9fa522",
 										"resource_type": "raw",
-										"created_at": "2018-08-22T05:25:29Z",
+										"created_at": "2018-08-22T05:33:24Z",
 										"tags": [],
 										"bytes": 851,
 										"type": "upload",
 										"etag": "eba9740327b0f3c4bfc1fb9dbc405b01",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/q6a/raw/upload/v1534915529/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d_Qh49DmsSkwzi8irdW_en-US.srt",
-										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1534915529/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d_Qh49DmsSkwzi8irdW_en-US.srt",
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1534916004/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d_PQfzf2DYjYnrKDQDx_en-US.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1534916004/c30efd80-ea8b-783b-eb0a-75285095272c/videoplayback_x09drf_l70l6d_PQfzf2DYjYnrKDQDx_en-US.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true
