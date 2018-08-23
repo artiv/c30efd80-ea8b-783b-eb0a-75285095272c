@@ -305,215 +305,6 @@
 										"font": "Arial",
 										"size": 8,
 										"color": {
-											"hex": "#ff0000",
-											"rgb": {
-												"r": 255,
-												"g": 0,
-												"b": 0,
-												"a": 1
-											}
-										},
-										"isAttached": true,
-										"x": "0",
-										"y": "0",
-										"width": "default",
-										"height": "default",
-										"gravity": "center",
-										"crop": "scale",
-										"start_offset": "0",
-										"end_offset": "4",
-										"editorContent": {
-											"entityMap": {},
-											"blocks": [
-												{
-													"key": "34cr5",
-													"text": "bold center",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [
-														{
-															"offset": 0,
-															"length": 11,
-															"style": "BOLD"
-														}
-													],
-													"entityRanges": [],
-													"data": {
-														"text-align": "center"
-													}
-												}
-											]
-										},
-										"inlineStyle": {
-											"BOLD": true,
-											"ITALIC": false,
-											"UNDERLINE": false,
-											"STRIKETHROUGH": false
-										},
-										"textAlignment": "center",
-										"editorOthers": {
-											"language": "en",
-											"inputMethod": "system"
-										},
-										"text": "bold center",
-										"editor": {
-											"state": {
-												"_immutable": {
-													"allowUndo": true,
-													"currentContent": {
-														"entityMap": {},
-														"blockMap": {
-															"34cr5": {
-																"key": "34cr5",
-																"type": "unstyled",
-																"text": "bold center",
-																"characterList": [
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	},
-																	{
-																		"style": [
-																			"BOLD"
-																		],
-																		"entity": null
-																	}
-																],
-																"depth": 0,
-																"data": {
-																	"text-align": "center"
-																}
-															}
-														},
-														"selectionBefore": {
-															"anchorKey": "34cr5",
-															"anchorOffset": 0,
-															"focusKey": "34cr5",
-															"focusOffset": 0,
-															"isBackward": false,
-															"hasFocus": false
-														},
-														"selectionAfter": {
-															"anchorKey": "34cr5",
-															"anchorOffset": 0,
-															"focusKey": "34cr5",
-															"focusOffset": 0,
-															"isBackward": false,
-															"hasFocus": false
-														}
-													},
-													"decorator": null,
-													"directionMap": {
-														"34cr5": "LTR"
-													},
-													"forceSelection": false,
-													"inCompositionMode": false,
-													"inlineStyleOverride": null,
-													"lastChangeType": null,
-													"nativelyRenderedContent": null,
-													"redoStack": [],
-													"selection": {
-														"anchorKey": "34cr5",
-														"anchorOffset": 0,
-														"focusKey": "34cr5",
-														"focusOffset": 0,
-														"isBackward": false,
-														"hasFocus": false
-													},
-													"treeMap": {
-														"34cr5": [
-															{
-																"start": 0,
-																"end": 11,
-																"decoratorKey": null,
-																"leaves": [
-																	{
-																		"start": 0,
-																		"end": 11
-																	}
-																]
-															}
-														]
-													},
-													"undoStack": []
-												}
-											},
-											"previousInlineStyle": {
-												"BOLD": true,
-												"ITALIC": false,
-												"UNDERLINE": false,
-												"STRIKETHROUGH": false,
-												"CODE": false,
-												"SUPERSCRIPT": false,
-												"SUBSCRIPT": false
-											},
-											"previousTextAlignment": "center",
-											"context": "",
-											"language": "en",
-											"inputMethod": "system"
-										}
-									},
-									{
-										"isText": true,
-										"font": "Arial",
-										"size": 8,
-										"color": {
 											"hex": "#ffffff",
 											"rgb": {
 												"r": 255,
@@ -522,7 +313,7 @@
 												"a": 1
 											}
 										},
-										"isAttached": true,
+										"isAttached": false,
 										"x": "0",
 										"y": "0",
 										"width": "default",
@@ -806,7 +597,64 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "whathw",
+										"text": "whathw"
+									},
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 8,
+										"color": {
+											"hex": "#ff0000",
+											"rgb": {
+												"r": 255,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": false,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "4",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "34cr5",
+													"text": "bold center",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "BOLD"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "center"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "center",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "bold center",
 										"editor": {
 											"state": {
 												"_immutable": {
@@ -814,60 +662,96 @@
 													"currentContent": {
 														"entityMap": {},
 														"blockMap": {
-															"8fa30": {
-																"key": "8fa30",
+															"34cr5": {
+																"key": "34cr5",
 																"type": "unstyled",
-																"text": "whathw",
+																"text": "bold center",
 																"characterList": [
 																	{
 																		"style": [
-																			"UNDERLINE"
+																			"BOLD"
 																		],
 																		"entity": null
 																	},
 																	{
 																		"style": [
-																			"UNDERLINE"
+																			"BOLD"
 																		],
 																		"entity": null
 																	},
 																	{
 																		"style": [
-																			"UNDERLINE"
+																			"BOLD"
 																		],
 																		"entity": null
 																	},
 																	{
 																		"style": [
-																			"UNDERLINE"
+																			"BOLD"
 																		],
 																		"entity": null
 																	},
 																	{
-																		"style": [],
+																		"style": [
+																			"BOLD"
+																		],
 																		"entity": null
 																	},
 																	{
-																		"style": [],
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
 																		"entity": null
 																	}
 																],
 																"depth": 0,
-																"data": {}
+																"data": {
+																	"text-align": "center"
+																}
 															}
 														},
 														"selectionBefore": {
-															"anchorKey": "8fa30",
+															"anchorKey": "34cr5",
 															"anchorOffset": 0,
-															"focusKey": "8fa30",
+															"focusKey": "34cr5",
 															"focusOffset": 0,
 															"isBackward": false,
 															"hasFocus": false
 														},
 														"selectionAfter": {
-															"anchorKey": "8fa30",
+															"anchorKey": "34cr5",
 															"anchorOffset": 0,
-															"focusKey": "8fa30",
+															"focusKey": "34cr5",
 															"focusOffset": 0,
 															"isBackward": false,
 															"hasFocus": false
@@ -875,7 +759,7 @@
 													},
 													"decorator": null,
 													"directionMap": {
-														"8fa30": "LTR"
+														"34cr5": "LTR"
 													},
 													"forceSelection": false,
 													"inCompositionMode": false,
@@ -884,27 +768,23 @@
 													"nativelyRenderedContent": null,
 													"redoStack": [],
 													"selection": {
-														"anchorKey": "8fa30",
+														"anchorKey": "34cr5",
 														"anchorOffset": 0,
-														"focusKey": "8fa30",
+														"focusKey": "34cr5",
 														"focusOffset": 0,
 														"isBackward": false,
 														"hasFocus": false
 													},
 													"treeMap": {
-														"8fa30": [
+														"34cr5": [
 															{
 																"start": 0,
-																"end": 6,
+																"end": 11,
 																"decoratorKey": null,
 																"leaves": [
 																	{
 																		"start": 0,
-																		"end": 4
-																	},
-																	{
-																		"start": 4,
-																		"end": 6
+																		"end": 11
 																	}
 																]
 															}
@@ -914,14 +794,15 @@
 												}
 											},
 											"previousInlineStyle": {
-												"BOLD": false,
+												"BOLD": true,
 												"ITALIC": false,
-												"UNDERLINE": true,
+												"UNDERLINE": false,
 												"STRIKETHROUGH": false,
 												"CODE": false,
 												"SUPERSCRIPT": false,
 												"SUBSCRIPT": false
 											},
+											"previousTextAlignment": "center",
 											"context": "",
 											"language": "en",
 											"inputMethod": "system"
