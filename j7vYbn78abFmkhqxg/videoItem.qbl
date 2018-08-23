@@ -299,7 +299,635 @@
 									},
 									"isAttached": true
 								},
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 8,
+										"color": {
+											"hex": "#ff0000",
+											"rgb": {
+												"r": 255,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "center",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "4",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "34cr5",
+													"text": "bold center",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 11,
+															"style": "BOLD"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "center"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": true,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "center",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "bold center",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"34cr5": {
+																"key": "34cr5",
+																"type": "unstyled",
+																"text": "bold center",
+																"characterList": [
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"BOLD"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {
+																	"text-align": "center"
+																}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "34cr5",
+															"anchorOffset": 0,
+															"focusKey": "34cr5",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "34cr5",
+															"anchorOffset": 0,
+															"focusKey": "34cr5",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"34cr5": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "34cr5",
+														"anchorOffset": 0,
+														"focusKey": "34cr5",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"34cr5": [
+															{
+																"start": 0,
+																"end": 11,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 11
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": true,
+												"ITALIC": false,
+												"UNDERLINE": false,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"previousTextAlignment": "center",
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										}
+									},
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 8,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "east",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "8",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "3ts9g",
+													"text": "underline right f",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 17,
+															"style": "UNDERLINE"
+														}
+													],
+													"entityRanges": [],
+													"data": {
+														"text-align": "right"
+													}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"textAlignment": "right",
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "underline right f",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"3ts9g": {
+																"key": "3ts9g",
+																"type": "unstyled",
+																"text": "underline right f",
+																"characterList": [
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {
+																	"text-align": "right"
+																}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "3ts9g",
+															"anchorOffset": 0,
+															"focusKey": "3ts9g",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "3ts9g",
+															"anchorOffset": 0,
+															"focusKey": "3ts9g",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"3ts9g": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "3ts9g",
+														"anchorOffset": 0,
+														"focusKey": "3ts9g",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"3ts9g": [
+															{
+																"start": 0,
+																"end": 17,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 17
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": true,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"previousTextAlignment": "right",
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										}
+									},
+									{
+										"isText": true,
+										"font": "Arial",
+										"size": 8,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"isAttached": true,
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"gravity": "west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "8",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "8fa30",
+													"text": "whathw",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 4,
+															"style": "UNDERLINE"
+														}
+													],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": true,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "whathw",
+										"editor": {
+											"state": {
+												"_immutable": {
+													"allowUndo": true,
+													"currentContent": {
+														"entityMap": {},
+														"blockMap": {
+															"8fa30": {
+																"key": "8fa30",
+																"type": "unstyled",
+																"text": "whathw",
+																"characterList": [
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [
+																			"UNDERLINE"
+																		],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	},
+																	{
+																		"style": [],
+																		"entity": null
+																	}
+																],
+																"depth": 0,
+																"data": {}
+															}
+														},
+														"selectionBefore": {
+															"anchorKey": "8fa30",
+															"anchorOffset": 0,
+															"focusKey": "8fa30",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														},
+														"selectionAfter": {
+															"anchorKey": "8fa30",
+															"anchorOffset": 0,
+															"focusKey": "8fa30",
+															"focusOffset": 0,
+															"isBackward": false,
+															"hasFocus": false
+														}
+													},
+													"decorator": null,
+													"directionMap": {
+														"8fa30": "LTR"
+													},
+													"forceSelection": false,
+													"inCompositionMode": false,
+													"inlineStyleOverride": null,
+													"lastChangeType": null,
+													"nativelyRenderedContent": null,
+													"redoStack": [],
+													"selection": {
+														"anchorKey": "8fa30",
+														"anchorOffset": 0,
+														"focusKey": "8fa30",
+														"focusOffset": 0,
+														"isBackward": false,
+														"hasFocus": false
+													},
+													"treeMap": {
+														"8fa30": [
+															{
+																"start": 0,
+																"end": 6,
+																"decoratorKey": null,
+																"leaves": [
+																	{
+																		"start": 0,
+																		"end": 4
+																	},
+																	{
+																		"start": 4,
+																		"end": 6
+																	}
+																]
+															}
+														]
+													},
+													"undoStack": []
+												}
+											},
+											"previousInlineStyle": {
+												"BOLD": false,
+												"ITALIC": false,
+												"UNDERLINE": true,
+												"STRIKETHROUGH": false,
+												"CODE": false,
+												"SUPERSCRIPT": false,
+												"SUBSCRIPT": false
+											},
+											"context": "",
+											"language": "en",
+											"inputMethod": "system"
+										}
+									}
+								],
 								"context": {
 									"caption": "modern caption",
 									"alt": "family description"
