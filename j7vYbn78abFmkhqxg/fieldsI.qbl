@@ -83,6 +83,42 @@
 									"altText": "",
 									"seoSuffix": "black"
 								}
+							},
+							{
+								"public_id": "c30efd80-ea8b-783b-eb0a-75285095272c/white_uezejh",
+								"version": 1535095180,
+								"signature": "be3413db6ed717ea639cf2ca9d5af2b0b27e1ce1",
+								"width": 1152,
+								"height": 648,
+								"format": "png",
+								"resource_type": "image",
+								"created_at": "2018-08-24T07:19:40Z",
+								"tags": [],
+								"bytes": 659,
+								"type": "upload",
+								"etag": "2abd5c4f0071441900d579ed769bddf6",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/q6a/image/upload/v1535095180/c30efd80-ea8b-783b-eb0a-75285095272c/white_uezejh.png",
+								"secure_url": "https://res.cloudinary.com/q6a/image/upload/v1535095180/c30efd80-ea8b-783b-eb0a-75285095272c/white_uezejh.png",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "white",
+								"path": "v1535095180/c30efd80-ea8b-783b-eb0a-75285095272c/white_uezejh.png",
+								"thumbnail_url": "http://res.cloudinary.com/q6a/image/upload/c_limit,h_60,w_90/v1535095180/c30efd80-ea8b-783b-eb0a-75285095272c/white_uezejh.png",
+								"overlays": [],
+								"embed": {
+									"width": "",
+									"height": "",
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"seoSuffix": "white"
+								}
 							}
 						],
 						"fieldChildren": []
