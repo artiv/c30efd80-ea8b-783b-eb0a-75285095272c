@@ -239,7 +239,122 @@
 								"original_filename": "modernFamily",
 								"path": "v1535096712/c30efd80-ea8b-783b-eb0a-75285095272c/modernFamily_b6ccq6.mp4",
 								"thumbnail_url": "http://res.cloudinary.com/q6a/video/upload/c_limit,h_60,w_90/v1535096712/c30efd80-ea8b-783b-eb0a-75285095272c/modernFamily_b6ccq6.jpg",
-								"captions": {},
+								"captions": {
+									"font": "Arial",
+									"size": 8,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a  cool  guy. \n\n2\n00:00:05,000 --> 00:00:05,900\nThat's that's  my  thing. \n\n3\n00:00:07,400 --> 00:00:07,800\nI'm here \n\n4\n00:00:08,000 --> 00:00:08,900\nat 5  i  surf  the \n\n5\n00:00:09,000 --> 00:00:09,400\nweb I  text \n\n6\n00:00:10,000 --> 00:00:10,200\nLOL. Laugh \n\n7\n00:00:11,200 --> 00:00:11,400\nout loud  OMG. \n\n8\n00:00:12,000 --> 00:00:12,700\nOh my  God, \n\n9\n00:00:13,100 --> 00:00:13,700\nWTF why \n\n10\n00:00:14,200 --> 00:00:14,700\nthe face?  You \n\n11\n00:00:16,300 --> 00:00:16,800\nknow, I  know \n\n12\n00:00:17,000 --> 00:00:17,900\nall the  dances  to  High  School \n\n13\n00:00:18,200 --> 00:00:18,800\nMusical. So \n\n14\n00:00:19,200 --> 00:00:19,700\nwe're all \n\n15\n00:00:20,400 --> 00:00:20,800\nin this  together. \n\n16\n00:00:21,500 --> 00:00:23,400\nYes, we  are. \n\n17\n00:00:24,000 --> 00:00:24,700\nWe're all  stars. \n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a  cool  guy. "
+										},
+										{
+											"start": 5000,
+											"end": 5900,
+											"text": "That's that's  my  thing. "
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm here "
+										},
+										{
+											"start": 8000,
+											"end": 8900,
+											"text": "at 5  i  surf  the "
+										},
+										{
+											"start": 9000,
+											"end": 9400,
+											"text": "web I  text "
+										},
+										{
+											"start": 10000,
+											"end": 10200,
+											"text": "LOL. Laugh "
+										},
+										{
+											"start": 11200,
+											"end": 11400,
+											"text": "out loud  OMG. "
+										},
+										{
+											"start": 12000,
+											"end": 12700,
+											"text": "Oh my  God, "
+										},
+										{
+											"start": 13100,
+											"end": 13700,
+											"text": "WTF why "
+										},
+										{
+											"start": 14200,
+											"end": 14700,
+											"text": "the face?  You "
+										},
+										{
+											"start": 16300,
+											"end": 16800,
+											"text": "know, I  know "
+										},
+										{
+											"start": 17000,
+											"end": 17900,
+											"text": "all the  dances  to  High  School "
+										},
+										{
+											"start": 18200,
+											"end": 18800,
+											"text": "Musical. So "
+										},
+										{
+											"start": 19200,
+											"end": 19700,
+											"text": "we're all "
+										},
+										{
+											"start": 20400,
+											"end": 20800,
+											"text": "in this  together. "
+										},
+										{
+											"start": 21500,
+											"end": 23400,
+											"text": "Yes, we  are. "
+										},
+										{
+											"start": 24000,
+											"end": 24700,
+											"text": "We're all  stars."
+										}
+									],
+									"asset": {
+										"public_id": "c30efd80-ea8b-783b-eb0a-75285095272c/modernFamily_b6ccq6_GJegiDW62wKkcWmBM_en-US.srt",
+										"version": 1535096843,
+										"signature": "087a93ea3d98e7b7ec161c1f76bb596424b72a4d",
+										"resource_type": "raw",
+										"created_at": "2018-08-24T07:47:23Z",
+										"tags": [],
+										"bytes": 851,
+										"type": "upload",
+										"etag": "eba9740327b0f3c4bfc1fb9dbc405b01",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/q6a/raw/upload/v1535096843/c30efd80-ea8b-783b-eb0a-75285095272c/modernFamily_b6ccq6_GJegiDW62wKkcWmBM_en-US.srt",
+										"secure_url": "https://res.cloudinary.com/q6a/raw/upload/v1535096843/c30efd80-ea8b-783b-eb0a-75285095272c/modernFamily_b6ccq6_GJegiDW62wKkcWmBM_en-US.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true
+								},
 								"overlays": []
 							}
 						],
