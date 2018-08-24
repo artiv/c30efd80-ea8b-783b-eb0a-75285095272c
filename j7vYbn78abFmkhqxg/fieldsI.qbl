@@ -1,0 +1,205 @@
+{
+	"fileName": "fieldsI.qbl",
+	"fileTemplateRepo": "c30efd80-ea8b-783b-eb0a-75285095272c",
+	"fileTemplatePath": "j7vYbn78abFmkhqxg/fields.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "8f0e80d9-af89-0d07-fb31-be0a10816bb6",
+			"fileItemDate": "2018-08-24T07:16:30.583Z",
+			"fileItemCollections": [
+				"j7vYbn78abFmkhqxg"
+			],
+			"fileItemCollectionsForTranslation": [
+				"j7vYbn78abFmkhqxg"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "xTPg92epRsoJiaTKL",
+			"possibleLanguages": [
+				"xTPg92epRsoJiaTKL"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "37e5c6ad-0e0b-ad4e-1d57-7fe45d715f25",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsEditableCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsRequiredCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsMultipleCollections": [
+							"j7vYbn78abFmkhqxg"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "image info",
+						"fieldKey": "image key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "4d1c6d92-45a0-01ca-98b8-1e57e18d7145",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsEditableCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsRequiredCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsMultipleCollections": [
+							"j7vYbn78abFmkhqxg"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "audio info",
+						"fieldKey": "audio key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "9ecdf400-5af6-949c-00a2-b3ae6aeb824d",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsEditableCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsRequiredCollections": [
+							"j7vYbn78abFmkhqxg"
+						],
+						"fieldIsMultipleCollections": [
+							"j7vYbn78abFmkhqxg"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "video info",
+						"fieldKey": "video key",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "5a765c8e-3e72-d577-45fc-68bb86ea433a",
+						"fieldType": "defaultField",
+						"fieldIsVisibleCollections": [],
+						"fieldIsEditableCollections": [],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": false,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "",
+						"fieldKey": "",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a292e341-a4bf-98f8-7749-cbde18d07fdd",
+						"fieldType": "defaultField",
+						"fieldIsVisibleCollections": [],
+						"fieldIsEditableCollections": [],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": false,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "",
+						"fieldKey": "",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
