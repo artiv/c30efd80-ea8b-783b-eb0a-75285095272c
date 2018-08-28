@@ -1,8 +1,0 @@
-
-1
-00:00:00,440 --> 00:00:01,375
-Senator, we're making wharever
-
-2
-00:00:01,476 --> 00:00:22,501
-Very good, Lieutenant.
